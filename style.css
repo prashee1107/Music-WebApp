@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0;
+    box-shadow: 5px 5px 5px black;
+}
+.note{
+font-size: 20px;
+color: black;
+}
+.song_name{
+    font-size: 28px;
+}
+canvas{
+   
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px grey;
+}
